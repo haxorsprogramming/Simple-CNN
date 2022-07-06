@@ -1,0 +1,13 @@
+../
+  - dataset
+    - class a folder
+      - file a_1
+      - file a_2
+      - dst ..
+    - class b folder 
+      - file b_1
+      - file b_2
+    - dst
+  - model 
+  - predictions
+    - file test
